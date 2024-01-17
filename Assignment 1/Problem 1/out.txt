@@ -1,0 +1,70 @@
+Sierpinski gameboard: generation 1
+                    
+   11               
+   1                
+                    
+                    
+                    
+                    
+                    
+
+Sierpinski gameboard: generation 2
+                    
+   1 1              
+                    
+   1                
+                    
+                    
+                    
+                    
+
+Sierpinski gameboard: generation 3
+                    
+   1111             
+   1 1              
+   11               
+   1                
+                    
+                    
+                    
+
+Sierpinski gameboard: generation 4
+                    
+   1   1            
+                    
+                    
+                    
+   1                
+                    
+                    
+
+Sierpinski gameboard: generation 5
+                    
+   11  11           
+   1   1            
+                    
+                    
+   11               
+   1                
+                    
+
+Sierpinski gameboard: generation 6
+                    
+   1 1 1 1          
+                    
+   1   1            
+                    
+   1 1              
+                    
+   1                
+
+Sierpinski gameboard: generation 7
+                    
+   11111111         
+   1 1 1 1          
+   11  11           
+   1   1            
+   1111             
+   1 1              
+   11               
+
